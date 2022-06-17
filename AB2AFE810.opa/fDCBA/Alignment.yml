@@ -1,0 +1,19 @@
+segment_sources:
+  I1E720844:
+    type: origin_type
+    relation: translation
+    language: en
+  I4CEA942E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  00e807d2ca8547d490b03077c1234621:
+    I1E720844: 5a53d37de5c94f76add4474f097224e1
+    I4CEA942E: 29b0a65eeb404528b897f1e5ce77bd61
+  17380f8ea8c14dbd9135bb382974730a:
+    I1E720844: 859cc159abea4e3b9f4b08d7acd6bebb
+    I4CEA942E: 673af5a8e841413baab0245e7e1c612a
+  1895caf9062141bf9c8a3736c2661c97:
+    I1E720844: c5d8a9460355410c958d16e3b747f654
+    I4CEA942E: dd74dad9e7db49859088c84ab25639b8
